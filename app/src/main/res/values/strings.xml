@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RoboXR AI</string>
+    <string name="studio_title">RoboXR AI Studio</string>
+    <string name="studio_subtitle">Team Alclan • v2.0-Pro • XREAL XR</string>
+    <string name="nav_teach_in">Teach-In</string>
+    <string name="nav_jam_recovery">30s Jam</string>
+    <string name="nav_digital_twin">Twin CAD</string>
+    <string name="nav_audit_log">Audit Log</string>
+    <string name="safety_badge_pass">ISO 10218 PASS</string>
+    <string name="safety_badge_blocked">SAFETY LOCKOUT</string>
+    <string name="zero_direct_control_notice">Zero Direct LLM-to-Motor Control • Deterministic Gate Active</string>
+    <string name="btn_generate_plan">Synthesize Task Plan</string>
+    <string name="btn_auto_remediate">Auto-Remediate &amp; Re-Verify</string>
+    <string name="btn_approve_export">Operator Sign-Off &amp; Export</string>
+    <string name="btn_switch_offline">Run Offline Edge Planner</string>
+    <string name="btn_start_jam_recovery">Run 30s Recovery Plan</string>
+    <string name="btn_verify_hashes">Verify SHA-256 Chain</string>
+    <string name="cd_xr_hud_hero">XREAL smart glasses CNC machine-tending workcell HUD overlay</string>
+    <string name="cd_play_simulation">Play or pause digital twin trajectory simulation</string>
+    <string name="cd_reset_simulation">Reset digital twin simulation to step one</string>
+    <string name="cd_copy_code">Copy generated robot program code</string>
+    <string name="cd_close_dialog">Close dialog</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- XREAL (formerly Nreal) USB-C Smart Glasses VID 0x3318 (13080) -->
+    <usb-device vendor-id="13080" />
+    <!-- XREAL / Nreal Legacy Controller & Sensor Bridge VID 0x0486 (1158) -->
+    <usb-device vendor-id="1158" />
+</resources>

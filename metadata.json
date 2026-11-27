@@ -1,0 +1,6 @@
+{
+  "name": "RoboXR AI",
+  "description": "RoboXR AI Studio (Team Alclan) — standalone Android XR studio for brownfield CNC machine-tending teach-in, deterministic ISO 10218 digital twin safety guardrails, and 30-second jam recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
